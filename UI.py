@@ -1,6 +1,5 @@
 import sys
 
-import matplotlib.pyplot
 import numpy
 
 from functions import Functions
